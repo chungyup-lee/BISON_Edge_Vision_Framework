@@ -2,7 +2,7 @@
   <img src="assets/BISON_RANI_banner.png" width="100%" alt="BISON AI Banner">
 </p>
 
-# BISON VisionPlatform for Jetson (RANI)
+# BISON Edge Vision Framework (RANI)
 
 Real-time edge AI Networked Inspection Platform for NVIDIA Jetson
 
