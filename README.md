@@ -160,15 +160,15 @@ RANI 플랫폼은 다음 목표를 기반으로 설계되었습니다.
 
 ------------------------------------------------------------------------
 
-# 👨‍💻 Author
 
-**JangHyeok Choi (최장혁)**\
-Vision Solution Team / Assistant Manager @ BISON\
-📧 Contact: jhchoi@bison0507.com
+# Repository Scope
+
+이 저장소는 Vision Framework 구조와 예제 컴포넌트를 제공합니다.
+
+실제 상용 AI 모델 및 검사 알고리즘은 포함되어 있지 않습니다.
 
 ------------------------------------------------------------------------
 
-# 🪪 License
-본 프로젝트는 BISON의 자산이며, 무단 복제, 배포 및 사용은 엄격히 금지됩니다.
+# BISON AI Vision Lab
 
-Copyright © BISON. All rights reserved.
+스마트 제조를 위한 산업용 AI 검사 기술
